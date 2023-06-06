@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Robert Chen"
   avatar           : "profile.png"
-  bio              : "Honor Math & Computer Science NYU 2025"
+  bio              : "Honor Math & Computer Science            NYU 2025"
   location         : "New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "rc4571@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
