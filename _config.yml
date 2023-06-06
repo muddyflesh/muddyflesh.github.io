@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Robert Chen"
 title_separator          : "-"
-name                     : &name "Robert Chen"
-description              : &description "Whatsup Beijing"
+name                     : &name "Robert Chen2"
+description              : &description "Personal Webpage"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Robert Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Honor math and computer science student in New York University in class of 2025"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
