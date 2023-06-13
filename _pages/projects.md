@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 ## Code
-Check out my recent code of the Glauber Dynamics on the Ising Model: [https://github.com/robct07/Deep_Quench](https://github.com/robct07/Deep_Quench)
+Check out my recent code of [the Glauber Dynamics on the Ising Model](https://github.com/robct07/Deep_Quench)
 
 ## Essay
 [Equivalence relationship of the Three Terms Recurrence, Generating Functions and Governing ODEs.](https://robct07.github.io/files/Exploring_ODE_Project.pdf)
