@@ -13,7 +13,7 @@ author_profile: true
 + GA2012-002 Advanced Topics In Numerical Analysis: Convex And Nonsmooth Optimization
 + GA2450 Complex Variables I
 + GA2490 Introduction To Partial Differential Equations
-+ GA2931-001 Advanced Topics In Probability: Random Matrix Universality
++ GA2931-001 Advanced Topics In Probability: Random Matrix Universality\\
 Next Semester:
 + GA2500 Partial Differential Equations
 + GA2660 Advanced Topics In Analysis: Dynamical System
