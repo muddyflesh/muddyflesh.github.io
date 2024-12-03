@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[2] Zero-Temperature Dynamics of Ising Systems on Hypercubes (in preparation)
+[2] Zero-Temperature Dynamics of Ising Systems on Hypercubes (in preparation, please do not share without permission)
 
 Robert Chen, Jonathon Machta, Charles Newman, Daniel Stein. [preprint](https://robct07.github.io/files/Zero_Temperature_Dynamics_of_Ising_Systems_on_Hypercubes.pdf)
 
