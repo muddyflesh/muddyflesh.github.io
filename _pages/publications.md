@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Last updated: Dec 2, 2024
 
 [2] Zero-Temperature Dynamics of Ising Systems on Hypercubes (in preparation, please do not share without permission)
 
